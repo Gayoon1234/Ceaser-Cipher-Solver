@@ -5,4 +5,4 @@ A Java Swing GUI that can encode/decode substitution ciphers
 - Works best with a large number of words 
 - Written in Eclipse
 
-![screenshot](./Screenshot from 2020-11-18 15-43-04.png)
+![screenshot]('./Screenshot from 2020-11-18 15-43-04.png')
